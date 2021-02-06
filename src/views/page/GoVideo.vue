@@ -41,7 +41,7 @@
           {{ $t("page.video.download") }}
         </p>
       </header>
-      <div class="card-content">
+      <!--<div class="card-content">
         <div class="content">
           <div class="field">
             <label class="label">
@@ -50,9 +50,9 @@
                 {{ $t("copy.text") }}
               </a>
             </label>
-            <!--<div class="control">
+            <div class="control">
               <input class="input" type="text" :value="videoUrl" />
-            </div>-->
+            </div>
           </div>
           <div class="columns is-mobile is-multiline has-text-centered">
             <div
@@ -71,7 +71,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div>-->
     </div>
   </div>
 </template>
