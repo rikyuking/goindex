@@ -50,9 +50,9 @@
                 {{ $t("copy.text") }}
               </a>
             </label>
-            <div class="control">
+            <!--<div class="control">
               <input class="input" type="text" :value="videoUrl" />
-            </div>
+            </div>-->
           </div>
           <div class="columns is-mobile is-multiline has-text-centered">
             <div
